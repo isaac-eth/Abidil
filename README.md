@@ -16,6 +16,6 @@
 - GitHub
 
 ---
-
-🧩 **Autor:** [Isaac García](https://github.com/isaac-eth)  
-📬 Contacto: isaac.slv.gs@gmail.com
+Dominio: abidil.com
+**Autor:** [Isaac García](https://github.com/isaac-eth)  
+Contacto: isaac.slv.gs@gmail.com
